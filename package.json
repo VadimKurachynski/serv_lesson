@@ -1,0 +1,20 @@
+{
+  "name": "serv_lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadimKurachynski/serv_lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VadimKurachynski/serv_lesson/issues"
+  },
+  "homepage": "https://github.com/VadimKurachynski/serv_lesson#readme"
+}
