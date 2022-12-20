@@ -7,7 +7,9 @@ const app=express()
 
 app.listen(PORT,()=>console.log(`server started on ${PORT}`))
 
-
+app.get(`/`,(req,res)=>{
+    res.status(200).json("сервер работает")
+})
 
 
 
