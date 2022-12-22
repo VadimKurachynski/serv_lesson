@@ -13,5 +13,4 @@ app.get(`/`,(req,res)=>{
     res.status(200).json("сервер работает")
 })
 
-
 app.listen(PORT,()=>console.log(`server started on ${PORT}`))
