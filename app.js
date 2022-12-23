@@ -5,5 +5,3 @@ fs.readFile('./test.txt',(error,data)=>{
         })
     })
 });
-
-
